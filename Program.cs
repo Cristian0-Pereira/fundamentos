@@ -2,17 +2,23 @@
 using System.Net.Mail;
 using fundamentos.Models;
 
-int a = 10;
-int b = 5;
-int c = a + b;
-Console.WriteLine(c);
+int inteiro = 5;
+string a = inteiro.ToString();
 
+Console.WriteLine(a);
 
+// Cast - Casting
+//int a = Convert.ToInt32("5");
+// int a = int.Parse("5");
+// Console.WriteLine(a);
 
+// int a = 10;
+// int b = 5;
+// int c = a + b;
 
+// c += 5;
 
-
-
+// Console.WriteLine(c);
 
 // DateTime dataAtual = DateTime.Now;
 // Console.WriteLine(dataAtual.ToString("dd/mm/yyyy hh:mm"));
