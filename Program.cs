@@ -2,10 +2,17 @@
 using System.Net.Mail;
 using fundamentos.Models;
 
-int inteiro = 5;
-string a = inteiro.ToString();
+int a = 5;
+double b = a;
 
-Console.WriteLine(a);
+Console.WriteLine(b);
+
+
+
+// int inteiro = 5;
+// string a = inteiro.ToString();
+
+// Console.WriteLine(a);
 
 // Cast - Casting
 //int a = Convert.ToInt32("5");
