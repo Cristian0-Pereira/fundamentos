@@ -1,14 +1,19 @@
 ﻿using System.Data.Common;
 using System.Net.Mail;
 using fundamentos.Models;
+/*
+string a = "15-";
+int b = 0;
+int.TryParse(a, out b);
+Console.WriteLine(a);*/
 
-int a = 5;
-double b = a;
+// Cast = Conversão Automática
+// int a = 5;
+// double b = a;
 
-Console.WriteLine(b);
+// Console.WriteLine(b);
 
-
-
+// Cast = Conversão Manual
 // int inteiro = 5;
 // string a = inteiro.ToString();
 
