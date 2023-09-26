@@ -1,6 +1,41 @@
 using System.Linq.Expressions;
 using fundamentos.Models;
 
+
+/*  -- OPERADOR DE NEGAÇÃO --
+bool choveu = true;
+bool estaTarde = false;
+
+if (choveu && !estaTarde){
+    Console.WriteLine("Vou pedalar");
+}else{
+    Console.WriteLine("Vou pedalar outro dia");
+}
+*/
+
+/*
+bool presencaMinima = true;
+double media = 6.5;
+
+if (presencaMinima && media >= 7){
+    Console.WriteLine("Aprovado!");
+}else{
+    Console.WriteLine("Reprovado!");
+}
+*/
+
+/*
+bool maiorIdade = false;
+bool autorizacao = true;
+
+if (maiorIdade || autorizacao){
+    Console.WriteLine("Entrada Liberada!");
+}else{
+    Console.WriteLine("Entrada não Liberada!");
+}
+*/
+
+/*
  Console.WriteLine("Digite uma letra");
  string? letra = Console.ReadLine();
 
@@ -16,11 +51,7 @@ using fundamentos.Models;
         Console.WriteLine("Não é uma Vogal");
         break;
  }
-
-
-
-
-
+ */
 
 /*
 int quantidadeEstoque = 5;
