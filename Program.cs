@@ -2,7 +2,7 @@
 using System.Net.Mail;
 using fundamentos.Models;
 
-Calculadora calc = new Calculadora();
+Operadores calc = new();
 calc.Somar(10, 30);
 calc.Subtrair(10, 30);
 calc.Multiplicar(10, 30);

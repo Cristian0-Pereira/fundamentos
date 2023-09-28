@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace fundamentos.Models
 {
-    public class Calculadora
+    public class Operadores
     {
         public void Somar(int x, int y){
             Console.WriteLine($"{x} + {y} = {x + y}");
@@ -22,6 +22,9 @@ namespace fundamentos.Models
         public void Potencia(int x, int y){
             double pot = Math.Pow(x, y);
             Console.WriteLine($"{x} ^y {y} = {pot}");
+        }
+        public void Seno(double){
+            
         }
     }
 }
