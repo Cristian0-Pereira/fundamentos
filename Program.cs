@@ -1,19 +1,68 @@
 ﻿using System.Data.Common;
 using System.Net.Mail;
+using System.Runtime.CompilerServices;
 using fundamentos.Models;
 
+int soma = 0, num = 0;
+
+do{
+    Console.WriteLine("Digite um número (0 para parar)");
+    num = Convert.ToInt32(Console.ReadLine());
+    soma += num;
+
+}while(num != 0);
+
+Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+
+
+/*
+int num = 5;
+int contador = 1;
+while (contador <= 10){
+    Console.WriteLine($"{contador}° Execusão: {num} x {contador} = {num*contador}");
+    contador++;
+    if (contador == 6+1){
+        break;
+    }
+}
+*/
+
+/*
+int num = 5;
+for(int contador = 0; contador <= 10000; contador++){
+    Console.WriteLine($"{num} x {contador} = {num*contador}");
+}
+*/
+
+/*
+int num = 20;
+Console.WriteLine($"Incrementando o {num}");
+num++;
+Console.WriteLine(num);
+Console.WriteLine($"Decrementando o {num}");
+num--;
+Console.WriteLine(num);
+*/
+
+/*
 Operadores calc = new();
 calc.Somar(10, 30);
 calc.Subtrair(10, 30);
 calc.Multiplicar(10, 30);
 calc.Dividir(10,30);
 calc.Potencia(3, 3);
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
+calc.RaizQuadrada(25);
+*/
 
 /*
 string a = "15-";
 int b = 0;
 int.TryParse(a, out b);
-Console.WriteLine(a);*/
+Console.WriteLine(a);
+*/
 
 // Cast = Conversão Automática
 // int a = 5;
