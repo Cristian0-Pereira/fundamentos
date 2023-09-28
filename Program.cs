@@ -1,6 +1,14 @@
 ﻿using System.Data.Common;
 using System.Net.Mail;
 using fundamentos.Models;
+
+Calculadora calc = new Calculadora();
+calc.Somar(10, 30);
+calc.Subtrair(10, 30);
+calc.Multiplicar(10, 30);
+calc.Dividir(10,30);
+calc.Potencia(3, 3);
+
 /*
 string a = "15-";
 int b = 0;
