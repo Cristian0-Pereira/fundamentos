@@ -3,6 +3,44 @@ using System.Net.Mail;
 using System.Runtime.CompilerServices;
 using fundamentos.Models;
 
+/*
+string opcao;
+bool exbirMenu = true;
+
+while(exibirMenu){
+    Console.Clear();
+    Console.WriteLine("Digite uma opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao){
+        case "1":
+            Console.WriteLine("Cadastrar Cliente");
+            break;
+        case "2":
+            Console.WriteLine("Buscar Cliente");
+            break;
+        case "3":
+            Console.WriteLine("Apagar Cliente");
+        break;
+        case "4":
+            Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            break;
+        default:
+        Console.WriteLine("Opção Inválida");
+        break;
+    }
+}
+
+Console.WriteLine("Seu programa encerrou");
+*/
+
+/*
 int soma = 0, num = 0;
 
 do{
@@ -13,7 +51,7 @@ do{
 }while(num != 0);
 
 Console.WriteLine($"Total da soma dos números digitados é: {soma}");
-
+*/
 
 /*
 int num = 5;
