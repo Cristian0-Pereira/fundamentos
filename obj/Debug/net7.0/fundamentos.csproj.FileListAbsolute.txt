@@ -1,4 +1,14 @@
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\fundamentos.exe
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\fundamentos.deps.json
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\fundamentos.runtimeconfig.json
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\fundamentos.dll
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\fundamentos.pdb
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfoInputs.cache
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfo.cs
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.csproj.CoreCompileInputs.cache
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.dll
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\refint\fundamentos.dll
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.pdb
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.genruntimeconfig.cache
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\ref\fundamentos.dll
