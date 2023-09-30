@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "fundamentos/1.0.0": {
-        "dependencies": {
-          "Fundamentos.Common": "1.0.0"
-        },
-        "runtime": {
-          "fundamentos.dll": {}
-        }
-      },
       "Fundamentos.Common/1.0.0": {
         "runtime": {
           "Fundamentos.Common.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "fundamentos/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Fundamentos.Common/1.0.0": {
       "type": "project",
       "serviceable": false,

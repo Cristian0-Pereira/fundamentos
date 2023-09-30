@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Fundamentos.Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Fundamentos.Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Fundamentos.Common.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Fundamentos.Common/1.0.0": {
-      "type": "project",
-      "path": "Fundamentos.Common/Fundamentos.Common.csproj",
-      "msbuildProject": "Fundamentos.Common/Fundamentos.Common.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Fundamentos.Common >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\crisn\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
-      "projectName": "fundamentos",
-      "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
+      "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
+      "projectName": "Fundamentos.Common",
+      "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj",
       "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\obj\\",
+      "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fundamentos.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj": {
-              "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fundamentos.Common\\Fundamentos.Common.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

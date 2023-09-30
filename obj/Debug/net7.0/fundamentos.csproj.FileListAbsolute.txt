@@ -12,3 +12,7 @@ D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\refint\fundamentos.dll
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.pdb
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.genruntimeconfig.cache
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\ref\fundamentos.dll
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\Fundamentos.Common.dll
+D:\VSCode\estudos\DIO\C#\fundamentos\bin\Debug\net7.0\Fundamentos.Common.pdb
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.csproj.AssemblyReference.cache
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.csproj.CopyComplete
