@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj",
+      "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
       "projectName": "fundamentos",
-      "projectPath": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj",
+      "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
       "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-      "outputPath": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\obj\\",
+      "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisn\\AppData\\Roaming\\NuGet\\NuGet.Config"

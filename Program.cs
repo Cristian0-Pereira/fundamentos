@@ -1,11 +1,11 @@
 ﻿using System.Data.Common;
 using System.Net.Mail;
 using System.Runtime.CompilerServices;
-using Fundamentos.Common.Models;
+using fundamentos.Models;
 
 /*
 string opcao;
-bool exibirMenu = true;
+bool exbirMenu = true;
 
 while(exibirMenu){
     Console.Clear();
