@@ -1,7 +1,14 @@
 ﻿using System.Data.Common;
 using System.Net.Mail;
 using System.Runtime.CompilerServices;
-using fundamentos.Models;
+using Fundamentos.Common.Models;
+
+Pessoa p = new()
+{
+    Nome = "Cristiano",
+    Idade = 40
+};
+p.Apresentar();
 
 /*
 string opcao;
