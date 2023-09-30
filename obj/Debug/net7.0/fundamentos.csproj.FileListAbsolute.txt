@@ -1,0 +1,4 @@
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfoInputs.cache
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfo.cs
+D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.csproj.CoreCompileInputs.cache
