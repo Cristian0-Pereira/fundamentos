@@ -12,3 +12,10 @@ D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\refint\fundamentos.dll
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.pdb
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\fundamentos.genruntimeconfig.cache
 D:\VSCode\estudos\DIO\C#\fundamentos\obj\Debug\net7.0\ref\fundamentos.dll
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.AssemblyInfoInputs.cache
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.AssemblyInfo.cs
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.csproj.CoreCompileInputs.cache
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.dll
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\refint\fundamentos.dll
+d:\VSCode\estudos\DIO\C#\fundamentos\Fund-Principal\obj\Debug\net7.0\fundamentos.pdb

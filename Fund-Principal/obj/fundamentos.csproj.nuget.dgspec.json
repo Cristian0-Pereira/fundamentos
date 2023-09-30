@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj": {}
+    "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj": {
+    "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
+        "projectUniqueName": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj",
         "projectName": "fundamentos",
-        "projectPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\fundamentos.csproj",
+        "projectPath": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\fundamentos.csproj",
         "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\obj\\",
+        "outputPath": "d:\\VSCode\\estudos\\DIO\\C#\\fundamentos\\Fund-Principal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisn\\AppData\\Roaming\\NuGet\\NuGet.Config"

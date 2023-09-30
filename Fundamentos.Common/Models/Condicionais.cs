@@ -1,5 +1,5 @@
 using System.Linq.Expressions;
-using fundamentos.Models;
+using Fundamentos.Common.Models;
 
 
 /*  -- OPERADOR DE NEGAÇÃO --
