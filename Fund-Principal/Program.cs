@@ -3,9 +3,9 @@ using System.Net.Mail;
 using System.Runtime.CompilerServices;
 using fundamentos.Models;
 
-/*
+
 string opcao;
-bool exbirMenu = true;
+bool exibirMenu = true;
 
 while(exibirMenu){
     Console.Clear();
@@ -38,7 +38,6 @@ while(exibirMenu){
 }
 
 Console.WriteLine("Seu programa encerrou");
-*/
 
 /*
 int soma = 0, num = 0;
