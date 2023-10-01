@@ -1,15 +1,40 @@
 ﻿using System.Data.Common;
+using System.Diagnostics;
 using System.Net.Mail;
 using System.Runtime.CompilerServices;
 using fundamentos.Models;
+/*
+//ARRAY EM LISTAS
+List<string> listaString = new List<string>();
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+for(int cont = 0; cont < listaString.Count; cont++){
+    Console.WriteLine($"{cont} {listaString[cont]}");
+}
+*/
+/*
+int[] arrayInteiros = new int[3];
+arrayInteiros[0] = 72;
+arrayInteiros[1] = 30;
+arrayInteiros[2] = 22;
 
-Pessoa p = new()
-{
-    Nome = "Cristiano",
-    Idade = 40
-};
-p.Apresentar();
+int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+//Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
+Console.WriteLine("Percorrendo o Array com o for");
+for(int contador = 0; contador < arrayInteiros.Length; contador++){
+    Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+}
+*/
+
+// Console.WriteLine("Percorrendo o Array com o FOREACH");
+// int contForeach = 1;
+// foreach(int valor in arrayInteiros){
+//     Console.WriteLine($"Posição N° {contForeach} - {valor}");
+//     contForeach++;
+// }
 
 /*
 string opcao;
