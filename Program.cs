@@ -3,6 +3,14 @@ using System.Net.Mail;
 using System.Runtime.CompilerServices;
 using fundamentos.Models;
 
+Pessoa p = new()
+{
+    Nome = "Cristiano",
+    Idade = 40
+};
+p.Apresentar();
+
+
 /*
 string opcao;
 bool exbirMenu = true;
